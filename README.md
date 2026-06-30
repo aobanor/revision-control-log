@@ -1,10 +1,10 @@
-# revision Control Log
+# Revision Control Log
 
 An Excel workbook for tracking all document revisions across a project, including a detailed change history log.
 
 ## Sheets Included
-- Revision Log - tracks current revision of every document
-- Change History - records every individual change made, who made it, when and why
+- Revision Log - tracks current revision of every document, provides a clear structured record of every revision made to every document on a project.
+- Change History - records every individual change made, who made it, when and why.
 
 ## Industry
 Engineering / Construction / Oil & Gas
